@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bishal Shahi</h1>
-<h3 align="center">A passionate Mern Stack developer from Nepal</h3>
+<h3 align="center">A passionate MERN Stack developer from Nepal</h3>
 <h3 align="center">Link to my portfolio: https://bishal-shahi.vercel.app/ </h3>
 
 <h3 align="left">Connect with me:</h3>
